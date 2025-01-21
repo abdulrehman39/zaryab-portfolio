@@ -143,9 +143,9 @@ ul {
   height: 250px;
   position: relative;
   overflow: hidden;
-  -webkit-transition: all 0.8s ease 0s;
-  -o-transition: all 0.8s ease 0s;
-  transition: all 0.8s ease 0s;
+  -webkit-transition: all 0.5s ease 0s;
+  -o-transition: all 0.5s ease 0s;
+  transition: all 0.5s ease 0s;
 }
 
 .line:before {
@@ -159,9 +159,9 @@ ul {
   -ms-transform: translateY(-50%);
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
-  -webkit-animation: animateline 1000ms ease-in-out 0s forwards;
-  -o-animation: animateline 1000ms ease-in-out 0s forwards;
-  animation: animateline 1000ms ease-in-out 0s forwards;
+  -webkit-animation: animateline 900ms ease-in-out 0s forwards;
+  -o-animation: animateline 900ms ease-in-out 0s forwards;
+  animation: animateline 900ms ease-in-out 0s forwards;
 }
 
 .line:after {
@@ -176,10 +176,10 @@ ul {
   -ms-transform: translateY(-100%);
   -o-transform: translateY(-100%);
   transform: translateY(-100%);
-  -webkit-animation: animatebgline 1200ms linear 0s infinite;
-  -o-animation: animatebgline 1200ms linear 0s infinite;
-  animation: animatebgline 1200ms linear 0s infinite;
-  animation-delay: 2000ms;
+  -webkit-animation: animatebgline 1100ms linear 0s infinite;
+  -o-animation: animatebgline 1100ms linear 0s infinite;
+  animation: animatebgline 1100ms linear 0s infinite;
+  animation-delay: 1700ms;
 }
 
 @keyframes animateline {

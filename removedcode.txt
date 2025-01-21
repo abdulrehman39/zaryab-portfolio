@@ -101,3 +101,136 @@
   <!-- LATEST POSTS ENDS -->
 </section>
 <!-- BLOG SECTION ENDS -->
+
+
+
+
+<!-- CLIENTS SECTION STARTS -->
+          <section class="clients">
+            <div
+              class="clients-container animated-layer fade-in-right-animation fadeInUp wow"
+            >
+              <h3>My Clients</h3>
+              <div class="swiper swiper-clients fadeInUp wow">
+                <div class="swiper-wrapper">
+                  <!-- SWIPER ITEM STARTS -->
+                  <div class="swiper-slide">
+                    <div>
+                      <img
+                        src="assets/logos/themeforest-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                    <div>
+                      <img
+                        src="assets/logos/photodune-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                  </div>
+                  <!-- SWIPER ITEM ENDS -->
+                  <!-- SWIPER ITEM STARTS -->
+                  <div class="swiper-slide">
+                    <div>
+                      <img
+                        src="assets/logos/graphicriver-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                    <div>
+                      <img
+                        src="assets/logos/codecanyon-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                  </div>
+                  <!-- SWIPER ITEM ENDS -->
+                  <!-- SWIPER ITEM STARTS -->
+                  <div class="swiper-slide">
+                    <div>
+                      <img
+                        src="assets/logos/audiojungle-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                    <div>
+                      <img
+                        src="assets/logos/activeden-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                  </div>
+                  <!-- SWIPER ITEM ENDS -->
+                  <!-- SWIPER ITEM STARTS -->
+                  <div class="swiper-slide">
+                    <div>
+                      <img
+                        src="assets/logos/3docean-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                    <div>
+                      <img
+                        src="assets/logos/themeforest-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                  </div>
+                  <!-- SWIPER ITEM ENDS -->
+                  <!-- SWIPER ITEM STARTS -->
+                  <div class="swiper-slide">
+                    <div>
+                      <img
+                        src="assets/logos/activeden-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                    <div>
+                      <img
+                        src="assets/logos/audiojungle-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                  </div>
+                  <!-- SWIPER ITEM ENDS -->
+                  <!-- SWIPER ITEM STARTS -->
+                  <div class="swiper-slide">
+                    <div>
+                      <img
+                        src="assets/logos/graphicriver-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                    <div>
+                      <img
+                        src="assets/logos/codecanyon-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                  </div>
+                  <!-- SWIPER ITEM ENDS -->
+                </div>
+                <div class="swiper-pagination"></div>
+              </div>
+            </div>
+            <img
+              alt=""
+              class="z-1 hide-mobile opposite-separator"
+              src="assets/separator-opposite.png"
+            />
+          </section>
+          <!-- CLIENTS SECTION ENDS -->
+
+          <!-- SINGE FACT ITEM STARTS -->
+              <div
+                class="animated-layer fade-in-right-animation fadeInRight wow"
+                data-wow-offset="200"
+              >
+                <div>
+                  <div>
+                    <h3>13</h3>
+                    <p>awards<span>won</span></p>
+                  </div>
+                </div>
+              </div>
+              <!-- SINGE FACT ITEM ENDS -->
